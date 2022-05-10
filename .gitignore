@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/EliteWorkspaceRepo/v17/.suo
+/.vs
+/MySecondProject/.vs/MySecondProject
+/MySecondProject/MySecondProject/bin/Debug/net6.0
+/MySecondProject/MySecondProject/obj
